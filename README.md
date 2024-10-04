@@ -44,5 +44,3 @@ ServerName domain.com
 ![image](https://steamuserimages-a.akamaihd.net/ugc/2485514623316959505/DD8DB5641452B55EEA23E3EB46E16BB8A7F263CA/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 
 ![image](https://steamuserimages-a.akamaihd.net/ugc/2485514623316959884/4B15E5CE46F599C3F794B48722F9AB7FA494E5DA/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
-
-![image](hhttps://steamuserimages-a.akamaihd.net/ugc/2485514623316960394/E736F7C2E4EA93CCB60BEDAF4ACF0B441D98E3D4/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
